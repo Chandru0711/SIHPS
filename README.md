@@ -33,8 +33,8 @@ Integration with Court Management Systems: Seamlessly integrate with existing co
 E-Payment Integration: Integrate with online payment systems for court fees and fines.
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/323142c1-0070-466f-bc0d-282b66a526a6)
 
-![images](https://github.com/user-attachments/assets/8db3becd-31a2-43ff-b4dc-26a9ae11ee44)
 
 
 
